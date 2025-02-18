@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1bae",
+      "name": "ak",
+      "email": "ak@gmail.com",
+      "password": "1212"
+    },
+    {
+      "id": "4c65",
+      "name": "man",
+      "email": "dnwnd@njnwdj",
+      "password": "12"
+    },
+    {
+      "id": "0c58",
+      "name": "dk",
+      "email": "dk@gmail.com",
+      "password": "2"
+    },
+    {
+      "id": "03c3",
+      "name": "hy",
+      "email": "hy@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "f1ef",
+      "name": "manoj",
+      "email": "tegomap655@eoilup.com",
+      "password": "tegomap655@eoilup.com"
+    },
+    {
+      "id": "bc88",
+      "name": "jalpa",
+      "email": "jalpa@gmail.com",
+      "password": "jalpa"
+    },
+    {
+      "id": "c0e6",
+      "name": "pooja",
+      "email": "pooja@gmail.com",
+      "password": "pooja123"
+    }
+  ]
+}
